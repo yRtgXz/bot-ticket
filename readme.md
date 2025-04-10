@@ -19,4 +19,4 @@ config.json
 
 
 # esse é padrão ou quiser alterar na bot_ticket_advanced\json\config.ticket.json
-        "texto":"👥 **| Usuario:** {user} \n\n💻 **| Motivo do Ticket:** {motivo}  \n\n 🔐** | Codigo Ticket: {codigo} ** \n\n🔰 **| Informações:** __*Seja Bem Vindo para seu Ticket! Espere até que um **STAFF** lhe atenda, Evite de Marcar varias vezes para evitar punições!*__ \n\n 🧰 **| Ticket Assumido: **{assumido}"
+        "texto":"👥 **| Usuario:** {user} \n\n💻 **| Motivo do Ticket:** {motivo}  \n\n 🔐** | Codigo Ticket: {codigo} ** \n\n🔰 **| Informações:** __*Seja Bem Vindo para seu Ticket! Espere até que um **STAFF** lhe atenda, Evite de Marcar varias vezes para evitar punições!*__ \n\n 🧰 **| Ticket Assumido: **{assumido}""# bot-ticket" 
